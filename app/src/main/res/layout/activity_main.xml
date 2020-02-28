@@ -69,5 +69,11 @@
         android:layout_height="match_parent"
         android:layout_margin="5dp" />
 
+<!--    ini yang scrollnya vertical -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewVertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp" />
 
 </LinearLayout>
